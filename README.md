@@ -26,7 +26,7 @@ pip install -r requirements.txt
    ```
 2. Run:
    ```bash
-   python JARVIS_gemini.py
+   python Pari_gemini.py
    ```
 
 ## Example commands
